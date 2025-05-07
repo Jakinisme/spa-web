@@ -1,0 +1,29 @@
+:root {
+  --primary-color: #646cff;
+  --primary-hover: #535bf2;
+  --background-color: #ffffff;
+  --text-color: #213547;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--primary-hover);
+} 
