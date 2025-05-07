@@ -8,7 +8,7 @@ function Home() {
       <div className="features">
         <div className="feature">
           <h3>Home</h3>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur sint, nesciunt ipsa ad nemo commodi expedita dolor facere eum quae, molestiae eveniet illum quaerat atque quos quam neque ex sit?</p>
+          <p>This is the home page</p>
         </div>
         <div className="feature">
           <h3>About</h3>

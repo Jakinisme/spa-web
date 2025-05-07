@@ -10,8 +10,8 @@ function About() {
         <li>React Router v6</li>
         <li>Vite</li>
         <li>Modern CSS</li>
+        <li>idk what to put here</li>
       </ul>
-      <p>idk what to put here</p>
     </div>
   )
 }
